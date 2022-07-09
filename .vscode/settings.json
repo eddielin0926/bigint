@@ -1,0 +1,8 @@
+{
+    "C_Cpp.clang_format_style": "{ BasedOnStyle: Microsoft, IndentWidth: 4 }",
+    "cSpell.words": [
+        "digitll",
+        "intmd",
+        "printb"
+    ]
+}
